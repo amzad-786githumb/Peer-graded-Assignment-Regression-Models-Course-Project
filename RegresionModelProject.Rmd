@@ -1,13 +1,13 @@
 ---
 title: "Coursera Regression Models Project"
-author: "Jose Antonio (joseantonio@me.com)"
-date: "28 ago 2016"
+author: "Mohd Amzad (scientistamzad786@gmail.com)"
+date: "17-03-2025"
 output: word_document
 ---
 Motor Trend: Vehicle Fuel Consumption
 =====================================
 
-[GitHub Project Link:  ]<https://github.com/joseantonio11/coursera-regression-model-project>
+[GitHub Project Link:  ]<https://github.com/amzad-786githumb/Peer-graded-Assignment-Regression-Models-Course-Project/edit/main/RegresionModelProject.Rmd>
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
